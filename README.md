@@ -36,4 +36,4 @@ To predict the resale price of a Singapore Flats, follow these steps:
 4. The app will display the predicted resale price based on the provided information.
 
 
-Linkedin post link:
+Linkedin post link:https://www.linkedin.com/posts/kaushik-kathwal-372769290_python-machinelearning-machinelearningalgorithms-activity-7172596421689298946-v_lK?utm_source=share&utm_medium=member_desktop
